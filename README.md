@@ -6,3 +6,4 @@ In addition, Webpack and Babel were implemented. Webpack is an open-source JavaS
 
 
 ![Settings Window](./public/images/screenShot.png)
+
